@@ -3,7 +3,7 @@
 ## I'm a Backend Developer 👨‍💻 and Student 👨‍🎓!
 - 🌱 I’m currently learning 👨‍🎓
 - 👯 I’m looking to collaborate with other .Net developer 👩‍💻
-- 📄 Know about my experiences on [My Linkedin Profile](https://www.linkedin.com/in/ahmetselcukzengin/)
+- 📄 Know about my experiences on [My Linkedin Profile](https://www.linkedin.com/in/ahmet-sel%C3%A7uk-zengin-3807401a4/)
 - 📫 How to reach me: [a.selcukzengin@gmail.com](mailto:a.selcukzengin@gmail.com)
 
 
