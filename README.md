@@ -1,16 +1,28 @@
-### Hi there 👋
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<!--
-**ahmetselcukzengin/ahmetselcukzengin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Backend Developer 👨‍💻 and Student 👨‍🎓!
+- 🌱 I’m currently learning 👨‍🎓
+- 👯 I’m looking to collaborate with other .Net developer 👩‍💻
+- 📄 Know about my experiences on [My Linkedin Profile](https://www.linkedin.com/in/ahmetselcukzengin/)
+- 📫 How to reach me: [a.selcukzengin@gmail.com](mailto:a.selcukzengin@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/angular/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="html5" width="40" height="40"/></a>
+<a href="#" target="_blank"> <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/></a>
+<a href="#" target="_blank"> <img align="left" alt=".Net Core" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/></a>
+<a href="#" target="_blank"> <img align="left" alt=".Net" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/></a>
+
+
+### GitHub Analytics 📊
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetselcukzengin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetselcukzengin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
+
+<br />
