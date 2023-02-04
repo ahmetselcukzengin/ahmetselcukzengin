@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="auto" />
 
-## I'm a Backend Developer 👨‍💻 and Student 👨‍🎓!
+## I'm a Backend Developer! 👨‍💻
 - 🌱 I’m currently learning 👨‍🎓
 - 👯 I’m looking to collaborate with other .Net developer 👩‍💻
 - 📄 Know about my experiences on [My Linkedin Profile](https://www.linkedin.com/in/ahmet-sel%C3%A7uk-zengin-3807401a4/)
@@ -19,10 +19,11 @@
 <a href="#" target="_blank"> <img align="left" alt=".Net Core" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/></a>
 <a href="#" target="_blank"> <img align="left" alt=".Net" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/></a>
 
+<br />
+<br />
+<br />
 
 ### GitHub Analytics 📊
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetselcukzengin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetselcukzengin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
-
-<br />
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetselcukzengin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetselcukzengin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
